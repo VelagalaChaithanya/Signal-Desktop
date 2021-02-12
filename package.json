@@ -340,7 +340,7 @@
     "deb": {
       "depends": [
         "libnotify4",
-        "libappindicator1",
+        "libappindicator3-1",
         "libxtst6",
         "libnss3",
         "libasound2",
